@@ -1,0 +1,5 @@
+first_name = '  Max Malinin   \n '
+
+# BEGIN (write your solution here)
+print(first_name.strip())
+# END
