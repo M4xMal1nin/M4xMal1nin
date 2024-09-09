@@ -1,0 +1,6 @@
+def get_age_difference(year1 = 2030, year2 = 2020):
+    result = abs(year1 - year2)
+    diff = (f'The age difference is {result}')
+    return diff
+x = get_age_difference(1994, 2024)
+print(x)
