@@ -1,0 +1,2 @@
+a = 'Abrakadabra'
+print(a[6:1:-1])
