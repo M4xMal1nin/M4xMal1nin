@@ -1,0 +1,4 @@
+def get_free_domains_count(emails):
+    domains = [email.split('@')[1] for email in emails]
+    free_domains = [domain for domain in domains if domain in FREE_EMAIL_DOMAINS]  # noqa: E501
+    return dict(Counter(free_domains))
