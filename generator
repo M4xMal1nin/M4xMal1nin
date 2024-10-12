@@ -1,0 +1,8 @@
+def id_generator(prefix):
+    count = 0
+
+    def generate_id():
+        nonlocal count
+        count += 1
+        return f"{prefix}-{count:03d}"
+    return generate_id
