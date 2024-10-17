@@ -1,0 +1,7 @@
+# BEGIN
+def fill(coll, value, begin=0, end=None):
+    if end is None:
+        end = len(coll)
+    chunk = [value for _ in coll[begin:end]]
+    coll[begin:end] = chunk
+# END
