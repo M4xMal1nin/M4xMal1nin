@@ -1,0 +1,6 @@
+# BEGIN
+import registry  # noqa: E402
+
+registry.add(Cat)
+registry.add(Bird)
+# END
