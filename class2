@@ -1,0 +1,10 @@
+# BEGIN
+class Counter:
+    value = 0
+
+    def inc(self, delta=1):
+        self.value = max(self.value + delta, 0)
+
+    def dec(self, delta=1):
+        self.inc(-delta)
+# END
