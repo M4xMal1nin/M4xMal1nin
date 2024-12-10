@@ -1,0 +1,16 @@
+# BEGIN
+from functools import wraps
+
+
+def suppress(exception, *, or_return=None):
+    """Suppress exceptions of provided class(es) and return a value instead."""
+    def wrapper(function):
+        @wraps(function)
+        def inner(*args, **kwargs):
+            try:
+                return function(*args, **kwargs)
+            except exception:
+                return or_return
+        return inner
+    return wrapper
+# END
