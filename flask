@@ -1,0 +1,12 @@
+# BEGIN
+@app.route("/phones")
+def get_phones():
+    return jsonify(phones)
+
+
+@app.route("/domains")
+def get_domains():
+    return jsonify(domains)
+
+
+# END
