@@ -15,10 +15,10 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+    <a href="https://www.linkedin.com/in/max-malinin-2a6938389" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/storminurmind" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
@@ -81,12 +81,17 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 01/2024 - 09/2025 |
+| netology.ru/Старт в программировании                            | 07/2024 - 09/2024 |
 
---- -->
+### 📚 Примеры тестовых артефактов:
+- 🧾 [Чек-лист и тест-кейсы для интернет-магазина](#)
+- 🧪 [Коллекция Postman для API](#)
+- 💥 [Баг-репорты в Jira / YouTrack](#)
+- 🧰 [SQL-запросы для проверки БД](#)
+- ⚙️ [Автотесты на Python + Pytest](#)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M4xMallnin)
