@@ -1,3 +1,0 @@
-SELECT AVG(salary)
-FROM staff
-WHERE job_title = 'Engineer';

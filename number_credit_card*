@@ -1,5 +1,0 @@
-def get_hidden_card(a, stars=4):
-    a = a[12:]
-    result = f'{"*" * stars}' + a
-    return result
-print(get_hidden_card("2034399002125581", 5))

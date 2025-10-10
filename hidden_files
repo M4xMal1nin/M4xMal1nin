@@ -1,9 +1,0 @@
-# BEGIN
-def get_hidden_files_count(node):
-    name = get_name(node)
-    if is_file(node):
-        return name.startswith('.')
-    children = get_children(node)
-    hidden_files_count = list(map(get_hidden_files_count, children))
-    return sum(hidden_files_count)
-# END

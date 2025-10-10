@@ -1,8 +1,0 @@
-import random
-answer = ["Да", "Нет", "Скорее да", "Скорее нет", "Подумай ещё"]
-name = input("Введите ваше имя: ")
-print("Мастер гадания приветствует Вас " + name + "!")
-print("Задавайте Ваш вопрос: ")
-s = input()
-r = random.randint(0, 4)
-print(answer[r])
