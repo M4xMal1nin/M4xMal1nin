@@ -78,7 +78,7 @@
 - 💥 [SQL](#)
 - 🧰 [MongoDB](#)
 - ⚙️ [Автотесты на Python + Pytest](#)
-- 📌 [Bash](#)
+- 📌 [<a href="https://github.com/M4xMal1nin/Bash">Bash</a>](#)
 - 📍 [Git](#)
 - 👀 [Charles Proxy](#)
 - 📲 [Android App Testing](#)
