@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://api.nuget.org/v3-flatcontainer/testit.apiclient/3.2.0/icon" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://api.nuget.org/v3-flatcontainer/testit.apiclient/3.2.0/icon" title="testIT" alt="Jira" width="40" height="40"/>
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" alt="TestRail" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
-  <img src="https://devimages-cdn.apple.com/wwdc-services/articles/images/70DFEB35-0C49-450D-85FF-8831E2A593A9/2048.jpeg" title="Fiddler" alt="Fiddler" width="40" height="40"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/a1/13/8fa113c9-bdab-ff1b-0945-711a55fb1422/Xcode-0-85-220-0-6-0-0-2x-sRGB-0-0.png/1200x630bb.png" title="xcode" alt="Fiddler" width="40" height="40"/>
   <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="Proxyman" alt="Proxyman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
