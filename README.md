@@ -56,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pytest_logo.svg/500px-Pytest_logo.svg.png" title="Pytest" alt="Pytest" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluent/600/selenium-test-automation.png" title="Se" alt="Se" width="40" height="40"/>
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_ll2Jdn8mnYyUegcqzDlZritUlF2kFxzv5WRB36xx8q=s900-c-k-c0x00ffffff-no-rj" title="Grafana" alt="Grafana" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/42973632?v=4?s=400" title="Kibana" alt="Kibana" width="40" height="40"/>
   
