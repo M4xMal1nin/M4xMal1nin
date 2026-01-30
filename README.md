@@ -79,7 +79,7 @@
 - 🧰 [MongoDB](#)
 - ⚙️ [Автотесты на Python + Pytest](#)
 - 📌 [<a href="https://github.com/M4xMal1nin/Bash">Bash</a>](#)
-- 📍 [Git](#)
+- 📍 [<a href="https://github.com/M4xMal1nin/Git">Git</a>](#)
 - 👀 [Charles Proxy](#)
 - 📲 [Android App Testing](#)
 
