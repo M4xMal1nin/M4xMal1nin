@@ -47,6 +47,7 @@
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/a1/13/8fa113c9-bdab-ff1b-0945-711a55fb1422/Xcode-0-85-220-0-6-0-0-2x-sRGB-0-0.png/1200x630bb.png" title="xcode" alt="xcode" width="40" height="40"/>
   <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="Proxyman" alt="Proxyman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" title="Postgresql" alt="Postgresql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
