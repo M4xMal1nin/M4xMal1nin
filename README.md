@@ -14,7 +14,7 @@
 
 В свободное время занимаюсь игрой на гитаре🎸 и кроссфитом💪, вредных привычек нет.
 
-<img align="right" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" height="245" alt="QA testing gif">
+<img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" height="245" alt="QA testing gif">
 
 ---
 
