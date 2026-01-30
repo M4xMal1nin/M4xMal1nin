@@ -1,4 +1,4 @@
-# Привет, меня зовут Макс! <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" alt="QA test gif">
+# Привет, меня зовут Макс! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 ---
 
