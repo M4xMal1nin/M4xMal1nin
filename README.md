@@ -26,6 +26,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="mailto:malininmax19@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+    <a href="https://hh.ru/resume/d41a17b8ff0f951df60039ed1f6968536c3241"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="40" height="40" alt="Hh"/></a>
   </p>
 
 ---
