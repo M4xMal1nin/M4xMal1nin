@@ -49,6 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" title="Postgresql" alt="Postgresql" width="40" height="40"/>
   <img src="https://yt3.googleusercontent.com/lzuS-YFNMhIbyeiRNAdEPnxpf7_fMMYT-_uzQQbwViOM-qTJLWHVma9AdOENI-SWi_0Mjr0w=s900-c-k-c0x00ffffff-no-rj" title="DBeaver" alt="DBeaver" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/75c0e8908c40e84391b2fc850726ec18fad805e97a2da567ebfcfca05580f68d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" title="MongoDB" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
