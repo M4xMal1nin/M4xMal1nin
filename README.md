@@ -75,7 +75,7 @@
 ### 📚 Примеры тестовых артефактов:
 - 🧾 [<a href="https://github.com/M4xMal1nin/Web-shop-testing/blob/main/README.md">Тестирование интернет-магазина, артефакты</a>](#)
 - 🧪 [<a href="https://github.com/M4xMal1nin/api_testing">API тестирование</a>](#)
-- 💥 [SQL](#)
+- 💥 [<a href="https://github.com/M4xMal1nin/MySQL/blob/main/README.md">SQL</a>](#)
 - 🧰 [MongoDB](#)
 - ⚙️ [Автотесты на Python: Pytest + requests](#)
 - ⚙️ [Автотесты на Python: Selenium WebDriver](#)
