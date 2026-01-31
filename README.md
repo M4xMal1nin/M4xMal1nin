@@ -79,10 +79,10 @@
 - 🧰 [<a href="https://github.com/M4xMal1nin/MongoDB/blob/main/README.md">MongoDB</a>](#)
 - ⚙️ [<a href="">Автотесты на Python: Pytest + requests</a>](#)
 - ⚙️ [<a href="">Автотесты на Python: Selenium WebDriver</a>](#)
+- ⚙️ [<a href="">Автотесты на Python: Playwright</a>](#)
 - 📌 [<a href="https://github.com/M4xMal1nin/Bash">Bash</a>](#)
 - 📍 [<a href="https://github.com/M4xMal1nin/Git">Git</a>](#)
 - 👀 [<a href="https://github.com/M4xMal1nin/CharlesProxy">Charles Proxy</a>](#)
-- 📲 [<a href="https://github.com/M4xMal1nin/Mobile_testing">Android App Testing</a>](#)
-- 
+- 📲 [<a href="https://github.com/M4xMal1nin/Mobile_testing">Android App Testing</a>](#) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M4xMallnin)
