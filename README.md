@@ -76,12 +76,13 @@
 - 🧾 [<a href="https://github.com/M4xMal1nin/Web-shop-testing/blob/main/README.md">Тестирование интернет-магазина, артефакты</a>](#)
 - 🧪 [<a href="https://github.com/M4xMal1nin/api_testing">API тестирование</a>](#)
 - 💥 [<a href="https://github.com/M4xMal1nin/MySQL/blob/main/README.md">SQL</a>](#)
-- 🧰 [MongoDB](#)
-- ⚙️ [Автотесты на Python: Pytest + requests](#)
-- ⚙️ [Автотесты на Python: Selenium WebDriver](#)
+- 🧰 [<a href="https://github.com/M4xMal1nin/MongoDB/blob/main/README.md">MongoDB</a>](#)
+- ⚙️ [<a href="">Автотесты на Python: Pytest + requests</a>](#)
+- ⚙️ [<a href="">Автотесты на Python: Selenium WebDriver</a>](#)
 - 📌 [<a href="https://github.com/M4xMal1nin/Bash">Bash</a>](#)
 - 📍 [<a href="https://github.com/M4xMal1nin/Git">Git</a>](#)
-- 👀 [Charles Proxy](#)
-- 📲 [Android App Testing](#)
+- 👀 [<a href="">Charles Proxy</a>](#)
+- 📲 [<a href="">Android App Testing</a>](#)
+- 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=M4xMallnin)
