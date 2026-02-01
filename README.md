@@ -77,7 +77,7 @@
 - 🧪 [<a href="https://github.com/M4xMal1nin/api_testing">API тестирование</a>](#)
 - 💥 [<a href="https://github.com/M4xMal1nin/MySQL/blob/main/README.md">SQL</a>](#)
 - 🧰 [<a href="https://github.com/M4xMal1nin/MongoDB/blob/main/README.md">MongoDB</a>](#)
-- ⚙️ [<a href="">Автотесты на Python: Pytest + requests</a>](#)
+- ⚙️ [<a href="https://github.com/M4xMal1nin/pytest-wikipedia-api/tree/main">Автотесты на Python: Pytest + Requests</a>](#)
 - ⚙️ [<a href="">Автотесты на Python: Selenium WebDriver</a>](#)
 - ⚙️ [<a href="">Автотесты на Python: Playwright</a>](#)
 - 📌 [<a href="https://github.com/M4xMal1nin/Bash">Bash</a>](#)
